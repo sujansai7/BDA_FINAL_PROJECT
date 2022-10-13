@@ -1,4 +1,4 @@
-# BDA_FINAL_PROJECT
+# BIGDATA_FINAL_PROJECT
 # Team Members
 * Noolu Sai Sujan
 * Rimjhin Jain
