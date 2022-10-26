@@ -26,7 +26,7 @@ https://www.kaggle.com/datasets/ekibee/car-sales-information
 
 # Research Objectives and Question(s)
 
-Some of the questions we intend to solve with this dataset are which fueltype vechicles are having higher priority, what is the price range that most of the customers are willing to buy, what body type vehicles are having highest 
+Some of the questions we intend to solve with this dataset are which fueltype vechicles are having higher priority, what is the price range that most of the customers are willing to buy, what body type vehicles are much prefered, what kind of transmission are the customers purchasing most etc.
 Using the data set we plan to pre-process the data and use it, to meet our specific goals by analyzing and finding any patterns in the given dataset.
 Use the Machine learning model on this dataset to do a predictive analysis task. we plan on choosing regression models like simple linear regression and polynomial linear regression on the given dataset and visualising using different kinds of graphs to understand the trends in a better way.
 
