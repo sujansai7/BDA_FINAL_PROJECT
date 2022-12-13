@@ -56,14 +56,8 @@ https://github.com/sujansai7/BDA_FINAL_PROJECT/blob/4768cee13a8cc3bcbb6b5b4d7ea6
 
 ## b) Dashboard
 Dashboard instances were created using AWS Quicksight. These dashboards are used for presenting results using visualizations such as representing graphs like Pie Chart and Bar Chart for evaluating the research objectives. Also several different plots have been created using Scikit learn library from python and Amazon SageMaker notebook (AWS).
-Some of the graphs(pie-chart, bar graphs) are pasted below:
-<img width="452" alt="image" src="https://user-images.githubusercontent.com/115503621/207416653-7952852c-89ce-40c7-aaff-51fa840ad183.png">
+Some of the graphs for AWS QuickSight are pasted below in the following PDF:
 
-<img width="333" alt="image" src="https://user-images.githubusercontent.com/115503621/207416680-e85960cc-589d-401f-9b61-656c30eff704.png">
-
-<img width="452" alt="image" src="https://user-images.githubusercontent.com/115503621/207416698-02e0c32d-8706-4d5b-b383-beccceff7df7.png">
-
-<img width="452" alt="image" src="https://user-images.githubusercontent.com/115503621/207416724-c8ed805e-61cb-408d-9953-7a1039babaad.png">
 
 # Data Preparation
 As part of the data preparation process, all null values are first checked since they limit the ability of the machine learning algorithm to learn. Each column's null values are examined, and all of them are replaced with zero. After completing the above step, the data on each column was carefully observed and the Standard deviation, Mean, Maximum, and other statistical distributions are examined to determine how evenly the data is distributed.
