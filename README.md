@@ -46,7 +46,7 @@ There have been several questions which arise during my research work. The follo
 •	What kind of transmission are the customers purchasing most?
 
 
-# DELIVERABLE 2
+# Deliverable 2
 
 # Data Understanding
 ## a) Exploratory Data Analysis
