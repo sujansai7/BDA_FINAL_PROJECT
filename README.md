@@ -19,10 +19,15 @@ Github Repo, Email communication, Slack
 # 2. Selection of data (https://www.kaggle.com/datasets/ekibee/car-sales-information)
 
 This is a dataset with data on car sales ads in Russia by region
+
 Description: Data for car sales ads in Russia
+
 Resource type: S3 Bucket
+
 Amazon Resource Name (ARN): arn:aws:s3:::checkcheckbucket
+
 AWS Region: US-global
+
 https://github.com/sujansai7/BDA_FINAL_PROJECT
 
 # 3. Business Problem or Opportunity, Domain Knowledge
@@ -70,6 +75,7 @@ Analytics, Machine Learning
 
 Amazon Machine Learning technologies like SageMaker are used for analytics and machine learning. The data was originally recognized using Amazon Athena and Glue before being worked on by SageMaker. To use the best ML tools on the dataset's structure and get the most accurate results, the dataset's schema is thoroughly examined. The Amazon SageMaker is used finally to get the results.
 The data recognition is presented below:
+
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/115503621/207416834-3bfefc5e-464c-437a-b79a-eeb5fa505d1c.png">
 
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/115503621/207416853-30dbd38c-7af7-4ba8-a904-30a7b22f6655.png">
@@ -87,7 +93,7 @@ The results for some of the questions raised are discussed based upon proper dat
 ##  Which fuel type vehicles are having higher priority?
 According to the bar graph and pie chart, it is found out that the vehicles with Gasoline (90%) as fuel type are highly preferred. The vehicles with Diesel (9%) are chosen next followed by Electro(1%). The graphs for the visualization are presented below.
  
- <img width="448" alt="image" src="https://user-images.githubusercontent.com/115503621/207417083-febb611c-278d-4dd9-90a1-01955db47132.png">
+<img width="448" alt="image" src="https://user-images.githubusercontent.com/115503621/207417083-febb611c-278d-4dd9-90a1-01955db47132.png">
 
 <img width="316" alt="image" src="https://user-images.githubusercontent.com/115503621/207417108-a879e296-434a-40bf-9f25-d6bd36fccb0f.png">
 
@@ -163,5 +169,6 @@ During the project creation there were several problems encountered. There was a
 ## What future work would you like to do?
 The future work comprises including several more related datasets to work with a variety of datasets within the same project. Also more visualization apps like Bokeh can be proved beneficial in future for better understanding of the project.
 Also, the project is planned to be enhanced further to make it a real-world application with minimal errors.
-Implementation of Work / Presentation Video
+
+# Implementation of Work / Presentation Video
 
