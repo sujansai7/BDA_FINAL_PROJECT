@@ -84,7 +84,9 @@ The data recognition is presented below:
 AWS offers a variety of machine learning models and analytic tools, but linear regression was chosen as it offers outstanding approach to demonstrate patterns and relations across datasets. Linear regression attempts to model the relationship between two variables by fitting a linear equation to observed data. One variable is considered to be an explanatory variable, and the other is considered to be a dependent variable.
 
 # 9. Results
-The results for some of the questions raised are discussed based upon proper data, performing pre-processing operations on data and including all the required parameters.
+The results for some of the questions raised are discussed based upon proper data, performing pre-processing operations on data and including all the required parameters.The price predicted based on parameters like bofy type, fuel type is mentioned in the link below.
+
+https://github.com/sujansai7/BDA_FINAL_PROJECT/blob/main/BigData_deliverable%203%20Code.ipynb
 
 ##  Which fuel type vehicles are having higher priority?
 According to the bar graph and pie chart, it is found out that the vehicles with Gasoline (90%) as fuel type are highly preferred. The vehicles with Diesel (9%) are chosen next followed by Electro(1%). The graphs for the visualization are presented below.
