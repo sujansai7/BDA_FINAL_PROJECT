@@ -56,8 +56,9 @@ https://github.com/sujansai7/BDA_FINAL_PROJECT/blob/4768cee13a8cc3bcbb6b5b4d7ea6
 
 ## b) Dashboard
 Dashboard instances were created using AWS Quicksight. These dashboards are used for presenting results using visualizations such as representing graphs like Pie Chart and Bar Chart for evaluating the research objectives. Also several different plots have been created using Scikit learn library from python and Amazon SageMaker notebook (AWS).
-Some of the graphs for AWS QuickSight are pasted below in the following PDF:
+Some of the graphs for AWS QuickSight are presented in the PDF, the link for the same is pasted below:
 
+https://github.com/sujansai7/BDA_FINAL_PROJECT/blob/main/AWS_QuickSight.pdf
 
 # Data Preparation
 As part of the data preparation process, all null values are first checked since they limit the ability of the machine learning algorithm to learn. Each column's null values are examined, and all of them are replaced with zero. After completing the above step, the data on each column was carefully observed and the Standard deviation, Mean, Maximum, and other statistical distributions are examined to determine how evenly the data is distributed.
