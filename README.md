@@ -37,6 +37,7 @@ The dataset we have chosen is from Kaggle where it has been collected from a pop
 # 4. Research Objectives and Question(s)
 
 There have been several questions which arise during my research work. The following questions mentioned below are some of the questions which are needed to be researched in depth and should be discussed at a bigger prospective.
+
 •	Which fuel type vechicles are having higher priority? 
 
 •	What is the price range that most of the customers are willing to buy ?
