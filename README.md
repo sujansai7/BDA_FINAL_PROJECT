@@ -170,7 +170,8 @@ Also, the project is planned to be enhanced further to make it a real-world appl
 
 # Implementation of Work / Presentation Video
 
+Deliverable 1: https://github.com/sujansai7/BDA_FINAL_PROJECT/blob/main/Deliverable1.mp4
 
+Deliverable 2: https://github.com/sujansai7/BDA_FINAL_PROJECT/blob/main/Deliverable2%20.mp4
 
-
-
+Deliverable 3: https://github.com/sujansai7/BDA_FINAL_PROJECT/blob/main/Deliverable3.mp4
