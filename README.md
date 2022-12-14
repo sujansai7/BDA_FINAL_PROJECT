@@ -67,7 +67,7 @@ The string values present in columns are then transformed into integers as the m
 # Deliverable 3
  
 
-Analytics, Machine Learning
+# Analytics, Machine Learning
 
 Amazon Machine Learning technologies like SageMaker are used for analytics and machine learning. The data was originally recognized using Amazon Athena and Glue before being worked on by SageMaker. To use the best ML tools on the dataset's structure and get the most accurate results, the dataset's schema is thoroughly examined. The Amazon SageMaker is used finally to get the results.
 The data recognition is presented below:
