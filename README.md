@@ -168,6 +168,9 @@ During the project creation there were several problems encountered. There was a
 The future work comprises including several more related datasets to work with a variety of datasets within the same project. Also more visualization apps like Bokeh can be proved beneficial in future for better understanding of the project.
 Also, the project is planned to be enhanced further to make it a real-world application with minimal errors.
 
+## Instructions for individuals that may want to use your work
+The dataset is chosen from Kaggle and anyone who wishes to use our work needs to setup the AWS environment with appropriate credentials. Also, it might ask for charges which needs to be paid before using AWS services. Also, the user must load the Kaggle data into AWS and then set up the AWS SageMAker to run the python notebook consisting of code. All the other requirements for the procedure is mentioned within the github repository.
+
 # Implementation of Work / Presentation Video
 
 Deliverable 1: https://github.com/sujansai7/BDA_FINAL_PROJECT/blob/main/Deliverable1.mp4
