@@ -161,7 +161,7 @@ There weren't any new variables, but there were undoubtedly a number of new feat
 ## What was the process you used for evaluation? What was the best result?
 A lot of AWS resources were used during the process including AWS Glue, AWS Athena, AWS Quicksight. All these platforms were used to identify and understand the data after the pre-processing of the data. The processed data is transferred to the AWS SageMaker and linear regression is performed to obtain the final results. The plots for the same are generated using matplotlib and other Machine Leraning tools to provide the answers for the research questions.
 
-## What were the problems you faced? How did you solve them?
+## Is there Bias in your work? What were the problems you faced? How did you solve them?
 During the project creation there were several problems encountered. There was a problem with a dataset which was chosen. It had to be pre-processed to remove the null values present in the columns of the dataset. Also, the dataset chosen is a Kaggle dataset and setting up the Kaggle dataset on AWS services was a challenge. Also, there were issues while setting up AWS Glue, AWS Athena. Additionally, some of the data operations could not be set up the AWS services initially due to credits.  
 
 ## What future work would you like to do?
